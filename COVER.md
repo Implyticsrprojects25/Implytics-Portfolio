@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Implytics_logo.png" alt="Implytics R Projects Logo" width="500">
+  <img src="./Implytics_logo.PNG" alt="Implytics R Projects Logo" width="500">
 </p>
 
 <h1 align="center">Implytics R Projects</h1>
@@ -7,7 +7,7 @@
 <h3 align="center" style="color:#4b0082;">Data, People, and Purpose – Empowered by Analytics</h3>
 
 <p align="center">
-  <img src="https://dummyimage.com/400x4/fedc00/fedc00.png" alt="Accent line" width="300">
+  <img src="https://dummyimage.com/400x4/fedc00/fedc00.PNG" alt="Accent line" width="300">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ It reflects our commitment to transparency, design clarity, and data-driven stor
 ---
 
 <p align="center">
-  <img src="https://dummyimage.com/400x2/fedc00/fedc00.png" alt="Divider line" width="300">
+  <img src="https://dummyimage.com/400x2/fedc00/fedc00.PNG" alt="Divider line" width="300">
 </p>
 
 <p align="center">
