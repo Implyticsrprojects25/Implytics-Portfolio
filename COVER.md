@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="./Implytics_logo.PNG" alt="Implytics R Projects Logo" width="500">
+assets/Implytics_Cover_Logo.pdf
+
 </p>
-
-📄 [View or Download the Implytics Cover PDF](./assets/Implytics_Cover_Logo.pdf)
-
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
   <em>Prepared by Djeneba C.S., Founder & Analyst</em>
