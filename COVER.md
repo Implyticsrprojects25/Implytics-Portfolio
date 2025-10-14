@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./implytics_logo.png" alt="Implytics R Projects Logo" width="500">
+  <img src="./Implytics_logo.png" alt="Implytics R Projects Logo" width="500">
 </p>
 
 <h1 align="center">Implytics R Projects</h1>
