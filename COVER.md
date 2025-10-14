@@ -1,4 +1,6 @@
-assets/Implytics_Cover_Logo.pdf
+<p align="center">
+  <img src="./assets/Implytics_cover.png" alt="Implytics R Projects Logo" width="600">
+</p>
 
 </p>
 <p align="center">
