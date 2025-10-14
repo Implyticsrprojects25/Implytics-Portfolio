@@ -38,5 +38,5 @@ It reflects our commitment to transparency, design clarity, and data-driven stor
   <strong>© 2025 Implytics R Projects | D. C. Sylla</strong><br>
   <a href="https://github.com/Implyticsrprojects25">GitHub</a> · 
   <a href="https://www.linkedin.com/in/djeneba-coulibaly-sylla">LinkedIn</a> · 
-  <a href="mailto:implyticsrprojects25@users.noreply.github.com">Contact</a>
+  <a href="mailto:Implyticsrprojects25@users.noreply.github.com">Contact</a>
 </p>
