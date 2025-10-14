@@ -2,13 +2,7 @@
   <img src="./Implytics_logo.PNG" alt="Implytics R Projects Logo" width="500">
 </p>
 
-<h1 align="center">Implytics R Projects</h1>
-
-<h3 align="center" style="color:#4b0082;">Data, People, and Purpose – Empowered by Analytics</h3>
-
-<p align="center">
-  <img src="https://dummyimage.com/400x4/fedc00/fedc00.PNG" alt="Accent line" width="300">
-</p>
+📄 [View or Download the Implytics Cover PDF](./assets/Implytics_Cover_Logo.pdf)
 
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
