@@ -1,5 +1,3 @@
-![Uploading Implytics_Cover_Logo.png…]()
-
 </p>
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
