@@ -1,4 +1,9 @@
-📄 [Download full Cover PDF version](./assets/Implytics_Cover_Logo.pdf)
+<p align="center">
+  <img src="./assets/BrandPres.PNG" alt="Implytics R Projects Header" width="600">
+</p>
+
+📄 [Download the full Cover (PDF)](./assets/BrandIntro.pdf)
+
 </p>
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
