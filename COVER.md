@@ -1,7 +1,9 @@
-📄 [View or Download the Implytics Cover PDF](./assets/Implytics_Cover_Logo.pdf)
 <p align="center">
-  <img src="./assets/Implytics_Cover_Logo.png" alt="Implytics R Projects Logo" width="600">
+  <img src="./assets/BrandCover" alt="Implytics R Projects Logo" width="600">
 </p>
+
+📄 [Download full Cover PDF version](./assets/BrandCover.pdf)
+
 </p>
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
