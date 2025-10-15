@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="./assets/BrandCover" alt="Implytics R Projects Logo" width="600">
-</p>
-
-📄 [Download full Cover PDF version](./assets/BrandCover.pdf)
 
 </p>
 <p align="center">
