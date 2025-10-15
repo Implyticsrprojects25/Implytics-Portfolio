@@ -2,8 +2,6 @@
   <img src="./assets/BrandPres.png" alt="Implytics R Projects Header" width="600">
 </p>
 
-📄 [Download the full Cover (PDF)](./assets/BrandIntro.pdf)
-
 </p>
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
