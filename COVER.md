@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./HMRC/implytics_cover.png" alt="Implytics R Projects Logo" width="600">
+</p>
 </p>
 <p align="center">
   <strong>Portfolio Edition · 2025</strong><br>
