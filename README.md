@@ -10,7 +10,7 @@
 
 ### Data · People · Purpose — Empowered by Analytics
 
-**Founder:** D. C. Sylla  
+**Founder:**Djeneba. C.S.  
 **Role:** Founder & Analyst  
 **Brand Focus:** Founder-led thought leadership and strategic consulting under the Implytics ecosystem.
 
@@ -72,5 +72,5 @@ Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity
 
 ---
 
-**Founder:** D. C. Sylla  
+**Founder:** Djeneba. C.S.  
 **Implytics® — Data, People, and Purpose.**
