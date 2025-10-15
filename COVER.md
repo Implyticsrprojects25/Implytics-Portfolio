@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/BrandPres.PNG" alt="Implytics R Projects Header" width="600">
+  <img src="./assets/BrandPres.png" alt="Implytics R Projects Header" width="600">
 </p>
 
 📄 [Download the full Cover (PDF)](./assets/BrandIntro.pdf)
