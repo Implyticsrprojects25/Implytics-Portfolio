@@ -1,5 +1,6 @@
+📄 [View or Download the Implytics Cover PDF](./assets/Implytics_Cover_Logo.pdf)
 <p align="center">
-  <img src="./HMRC/Implytics_cover.png" alt="Implytics R Projects Logo" width="600">
+  <img src="./assets/Implytics_Cover_Logo.png" alt="Implytics R Projects Logo" width="600">
 </p>
 </p>
 <p align="center">
