@@ -1,3 +1,4 @@
+![Uploading Implytics_Cover_Logo.png…]()
 
 </p>
 <p align="center">
