@@ -14,7 +14,7 @@
 
 ## 💡 Purpose
 
-**Our Wellbeing, Our Future (OWOF)** is the social responsibility initiative of **Implytics**,  
+**Our Wellbeing, Our Fight (OWOF)** is the social responsibility initiative of **Implytics**,  
 dedicated to empowering people, professionals, and communities to use **data and empathy**  
 to nurture mental health, inclusion, and purposeful growth.
 
@@ -24,7 +24,7 @@ We believe wellbeing is a shared responsibility — measurable, improvable, and 
 
 ## 💬 Our Objectives
 
-- 🧠 Promote **mental health literacy** and emotionally safe workplaces.  
+- 🧠 Promote **wellbeing** and emotionally safe workplaces.  
 - 🎓 Provide **mentorship and career guidance** to emerging professionals.  
 - 📊 Apply **People Analytics** to highlight wellbeing trends and early risk indicators.  
 - 🌍 Encourage **multilingual peer dialogue** (English, French, Spanish) through  
