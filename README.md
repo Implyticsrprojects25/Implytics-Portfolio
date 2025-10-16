@@ -56,7 +56,7 @@ It unites multiple practice areas:
 | File | Description |
 |------|--------------|
 | [📄 COVER.md](./COVER.md) | Official Implytics brand cover page with header design |
-| [🌱 SOCIAL_IMPACT.md](./SOCIAL_IMPACT.md) | “Our Wellbeing, Our Future (OWOF)” — social responsibility initiative |
+| [🌱 SOCIAL_IMPACT.md](./SOCIAL_IMPACT.md) | “Our Wellbeing, Our Fight (OWOF)” — social responsibility initiative |
 
 ---
 
