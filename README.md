@@ -72,4 +72,7 @@ It unites multiple practice areas:
   <img src="https://dummyimage.com/400x2/fedc00/fedc00.png" alt="Divider line" width="300">
 </p>
 
-<p align="center"><strong>© 2025 Implytics R Projects | Djeneba. C.S./strong></p>
+<p align="center">
+  <strong>© 2025 Implytics R Projects | Djeneba C.S.</strong>
+</p>
+
