@@ -20,12 +20,16 @@ Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity
   <img src="https://dummyimage.com/400x3/fedc00/fedc00.png" alt="Accent line" width="250">
 </p>
 
+
+
 # 💼 Implytics R Projects
+
+
+https://github.com/Implyticsrprojects25/Implytics-Portfolio/blob/main/assets/LinkYoutBanner.png
 
 
 ### Empowering People, Retail, and Education through Analytics  
 **Trust • Turn • Transform • Improve**
-
 
 **Founder:**Djeneba. C.S.  
 **Role:** Founder & Analyst  
