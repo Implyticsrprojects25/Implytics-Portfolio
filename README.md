@@ -8,7 +8,7 @@
 
 # 💼 Implytics R Projects
 
-![LinkYouBanner.png](https://github.com/<Implyticsrprojects25>/Implytics-Portfolio/blob/main/Implytics_Banner.png?raw=true)
+
 ### Empowering People, Retail, and Education through Analytics  
 **Trust • Turn • Transform • Improve**
 
@@ -55,15 +55,7 @@ It unites multiple practice areas:
 </p>
 
 <p align="center"><strong>© 2025 Implytics R Projects | Djeneba. C.S./strong></p>
-Implytics-R-Projects/
-│
-├── COVER.md
-├── SOCIAL_IMPACT.md
-├── README.md
-│
-└── assets/
-    └── implytics_cover.png
-# Implytics R Projects
+
 
 Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity, social responsibility vision, and ecosystem of founder-led analytics initiatives.
 
