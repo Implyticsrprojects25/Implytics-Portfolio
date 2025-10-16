@@ -59,7 +59,7 @@ Implytics-R-Projects/
 ├── README.md
 │
 └── assets/
-    └── implytics_cover.png     ← (your purple + yellow portrait header image)
+    └── implytics_cover.png
 # Implytics R Projects
 
 Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity, social responsibility vision, and ecosystem of founder-led analytics initiatives.
