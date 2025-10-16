@@ -1,3 +1,17 @@
+Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity, social responsibility vision, and ecosystem of founder-led analytics initiatives.
+
+---
+
+## 🪶 Contents
+- [Cover Page](./COVER.md)
+- [Social Responsibility — OWOF](./SOCIAL_IMPACT.md)
+
+---
+
+**Founder:** Djeneba. C.S.  
+**Implytics® — Data, People, and Purpose.**
+
+
 <p align="center">
   <img src="./assets/BrandPres.png" alt="Implytics R Projects Header" width="600">
 </p>
@@ -55,17 +69,3 @@ It unites multiple practice areas:
 </p>
 
 <p align="center"><strong>© 2025 Implytics R Projects | Djeneba. C.S./strong></p>
-
-
-Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity, social responsibility vision, and ecosystem of founder-led analytics initiatives.
-
----
-
-## 🪶 Contents
-- [Cover Page](./COVER.md)
-- [Social Responsibility — OWOF](./SOCIAL_IMPACT.md)
-
----
-
-**Founder:** Djeneba. C.S.  
-**Implytics® — Data, People, and Purpose.**
