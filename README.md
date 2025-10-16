@@ -8,8 +8,9 @@
 
 # 💼 Implytics R Projects
 
-### Data · People · Purpose — Empowered by Analytics
-
+![LinkYouBanner](https://github.com/<Implyticsrprojects25>/Implytics-Portfolio/blob/main/Implytics_Banner.png?raw=true)
+### Empowering People, Retail, and Education through Analytics  
+**Trust • Turn • Transform • Improve**
 **Founder:**Djeneba. C.S.  
 **Role:** Founder & Analyst  
 **Brand Focus:** Founder-led thought leadership and strategic consulting under the Implytics ecosystem.
