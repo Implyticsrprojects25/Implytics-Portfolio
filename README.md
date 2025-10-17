@@ -2,7 +2,7 @@ Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity
 
 ---
 
-## 🪶 Contents
+## Contents
 - [Cover Page](./COVER.md)
 - [Social Responsibility — OWOF](./SOCIAL_IMPACT.md)
 
@@ -22,7 +22,7 @@ Welcome to the **Implytics Portfolio Repository**, showcasing the brand identity
 
 
 
-# 💼 Implytics R Projects
+# Implytics R Projects
 
 
 https://github.com/Implyticsrprojects25/Implytics-Portfolio/blob/main/assets/LinkYoutBanner.png
@@ -37,7 +37,7 @@ https://github.com/Implyticsrprojects25/Implytics-Portfolio/blob/main/assets/Lin
 
 ---
 
-## 🌍 About the Implytics Ecosystem
+## About the Implytics Ecosystem
 
 Implytics is a **founder-led, human-centered analytics brand** built around data-driven insight and social impact.
 
@@ -51,7 +51,7 @@ It unites multiple practice areas:
 
 ---
 
-## ✨ Featured Sections
+## Featured Sections
 
 | File | Description |
 |------|--------------|
@@ -60,7 +60,7 @@ It unites multiple practice areas:
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/Implyticsrprojects25">GitHub</a> · 
