@@ -31,7 +31,7 @@ https://github.com/Implyticsrprojects25/Implytics-Portfolio/blob/main/assets/Lin
 ### Empowering People, Retail, and Education through Analytics  
 **Trust • Turn • Transform • Improve**
 
-**Founder:**Djeneba. C.S.  
+Founder:Djeneba. C.S.  
 **Role:** Founder & Analyst  
 **Brand Focus:** Founder-led thought leadership and strategic consulting under the Implytics ecosystem.
 
@@ -55,8 +55,8 @@ It unites multiple practice areas:
 
 | File | Description |
 |------|--------------|
-| [📄 COVER.md](./COVER.md) | Official Implytics brand cover page with header design |
-| [🌱 SOCIAL_IMPACT.md](./SOCIAL_IMPACT.md) | “Our Wellbeing, Our Fight (OWOF)” — social responsibility initiative |
+| [COVER.md](./COVER.md) | Official Implytics brand cover page with header design |
+| [SOCIAL_IMPACT.md](./SOCIAL_IMPACT.md) | “Our Wellbeing, Our Fight (OWOF)” — social responsibility initiative |
 
 ---
 
