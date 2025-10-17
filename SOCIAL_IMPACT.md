@@ -2,7 +2,7 @@
   <img src="./implytics_logo.png" alt="Implytics R Projects Logo" width="500">
 </p>
 
-<h1 align="center">🌍 Social Responsibility — Our Wellbeing, Our Future (OWOF)</h1>
+<h1 align="center">Social Responsibility — Our Wellbeing, Our Future (OWOF)</h1>
 
 <p align="center">
   <img src="https://dummyimage.com/400x3/fedc00/fedc00.png" alt="Yellow Accent Line" width="250">
@@ -12,7 +12,7 @@
 
 ---
 
-## 💡 Purpose
+## Purpose
 
 **Our Wellbeing, Our Fight (OWOF)** is the social responsibility initiative of **Implytics**,  
 dedicated to empowering people, professionals, and communities to use **data and empathy**  
@@ -22,17 +22,17 @@ We believe wellbeing is a shared responsibility — measurable, improvable, and 
 
 ---
 
-## 💬 Our Objectives
+## Our Objectives
 
-- 🧠 Promote **wellbeing** and emotionally safe workplaces.  
-- 🎓 Provide **mentorship and career guidance** to emerging professionals.  
-- 📊 Apply **People Analytics** to highlight wellbeing trends and early risk indicators.  
-- 🌍 Encourage **multilingual peer dialogue** (English, French, Spanish) through  
+- Promote **wellbeing** and emotionally safe workplaces.  
+- Provide **mentorship and career guidance** to emerging professionals.  
+- Apply **People Analytics** to highlight wellbeing trends and early risk indicators.  
+- Encourage **multilingual peer dialogue** (English, French, Spanish) through  
   *Our Wellbeing Our Fight (OWOF) / Notre Bien-Être Notre Combat / Nuestro Bienestar Nuestra Lucha*.
 
 ---
 
-## 🔗 Connection to the Implytics Ecosystem
+## Connection to the Implytics Ecosystem
 
 | Branch | Contribution to OWOF |
 |--------|----------------------|
@@ -43,7 +43,7 @@ We believe wellbeing is a shared responsibility — measurable, improvable, and 
 
 ---
 
-## ✨ Social Impact Roadmap
+## Social Impact Roadmap
 
 | Phase | Focus | Actions |
 |-------|--------|----------|
@@ -53,7 +53,7 @@ We believe wellbeing is a shared responsibility — measurable, improvable, and 
 
 ---
 
-## 🧩 How to Get Involved
+## How to Get Involved
 
 - Join the conversation via the **OWOF digital community**.  
 - Partner with **Implytics** to pilot wellbeing dashboards or mentoring programs.  
